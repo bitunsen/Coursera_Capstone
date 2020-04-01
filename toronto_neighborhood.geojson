@@ -162979,7 +162979,7 @@
 			"type": "Feature",
 			"properties": {
 				"AREA_S_CD": "017",
-				"AREA_NAME": "Mimico (includes Humber Bay Shores)"
+				"AREA_NAME": "Mimico"
 			},
 			"geometry": {
 				"type": "Polygon",
